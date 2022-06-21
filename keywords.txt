@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For Deneyap_YagmurAlgilama
+#######################################
+
+#######################################
+# Library (KEYWORD1)
+#######################################
+
+Deneyap_YagmurAlgilama	KEYWORD1
+
+####################################
+# Class (KEYWORD1)
+####################################
+
+Rain	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin		KEYWORD2
+isConnected	KEYWORD2
+getFwVersion	KEYWORD2
+setI2Caddress	KEYWORD2
+ReadRainDigital	KEYWORD2
+ReadRainAnalog	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

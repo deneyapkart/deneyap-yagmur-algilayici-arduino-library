@@ -21,7 +21,7 @@ Deneyap Yağmur Algılayıcı için Arduino kütüphanesidir.
 ## :closed_book:Dokümanlar
 Deneyap Yağmur Algılayıcı
 
-Arduino Kütüphanesi Nasıl İndirilir
+[Arduino Kütüphanesi Nasıl İndirilir](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries)
 
 ## :pushpin:Deneyap Yağmur Algılayıcı
 Bu Arduino kütüphanesi Deneyap Yağmur Algılayıcının I2C çevre birimi ile kullanılmasını sağlar. Arduino ile uyumlu, I2C çevre birimine sahip herhangi bir geliştirme kartı ile bu kütüphaneyi projelerinizde kullanabilirsiniz.
@@ -35,6 +35,8 @@ Bu Arduino kütüphanesi Deneyap Yağmur Algılayıcının I2C çevre birimi ile
 
 ## Sürüm Geçmişi
 1.0.0 - ilk sürüm
+
+1.0.1 - library.properties dosyasının güncellenmesi
 
 ## :rocket:Donanım Bağlantıları
 - Deneyap Yağmur Algılayıcı ile kullanılan geliştirme kartı I2C kablosu ile bağlanabilir

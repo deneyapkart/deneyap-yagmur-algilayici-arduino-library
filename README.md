@@ -22,7 +22,7 @@ Arduino library for Deneyap Rain Sensor
 ## :closed_book:Documentation 
 Deneyap Rain Sensor
 
-How to install a Arduino Library -
+[How to install a Arduino Library](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries)
 
 ## :pushpin:Deneyap Rain Sensor
 This Arduino library allows you to use Deneyap Rain sensor with I2C peripheral. You can use this library in your projects with any Arduino compatible board with I2C peripheral.
@@ -36,6 +36,8 @@ This Arduino library allows you to use Deneyap Rain sensor with I2C peripheral. 
 
 ## Version History
 1.0.0 - initial release
+
+1.0.1 - update library.properties file
 
 ## :rocket:Hardware Connections
 - Deneyap Rain Sensor and Board can be connected with I2C cable

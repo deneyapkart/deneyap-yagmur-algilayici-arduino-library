@@ -2,10 +2,10 @@
 *****************************************************************************
 @file         Deneyap_YagmurAlgilama.h
 @mainpage     Deneyap Rain Sensor Arduino Library header file
-@version      v1.0.0
-@date         June 21, 2022
+@version      v1.0.1
+@date         June 22, 2022
 @brief        This file contains all function prototypes and macros 
-              for Deneyap Rain Sensor Arduino
+              for Deneyap Rain Sensor Arduino library
 *****************************************************************************
 */
 #ifndef __Deneyap_YagmurAlgilama_H
